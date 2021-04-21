@@ -29,3 +29,5 @@ I'll call it ```HelloFlask```
 ---------------------------
 
 > py -m venv env
+
+> env\Scripts\activate
